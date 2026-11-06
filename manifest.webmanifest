@@ -1,6 +1,6 @@
 {
-  "name": "LOGBOOK — Inteligência Operacional",
-  "short_name": "LOGBOOK",
+  "name": "Diário de Bordo — Inteligência Operacional",
+  "short_name": "Diário de Bordo",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
